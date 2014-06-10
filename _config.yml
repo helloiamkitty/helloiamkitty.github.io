@@ -1,3 +1,11 @@
 auto: true
 
 markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: helloiamkitty
+url: helloiamkitty.github.io
+feed: /atom.xml
+author_info: <a href="helloiamkitty.github.io/">helloiamkitty</a>
