@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      跨浏览器的CSS图像模糊
+title:      【译】跨浏览器的CSS图像模糊
 category: blog
 description: 现在页面中越来越多的毛玻璃效果，本文的image blur方案，解决了大部分图片的模糊化。不过ie9+，还是得用STACKBLUR等使用js的方法来实现了。
 ---
@@ -24,8 +24,8 @@ description: 现在页面中越来越多的毛玻璃效果，本文的image blur
 }
 </style>
 <div id="blur-container">
-<img src="/images/blue/pakistani-woman.jpg" alt="blablabla" class="blur">
-<img src="/images/blue/pakistani-woman.jpg" alt="blablabla" style="width:50%">
+<img src="images/blue/pakistani-woman.jpg" alt="blablabla" class="blur">
+<img src="images/blue/pakistani-woman.jpg" alt="blablabla" style="width:50%">
 </div>
 
 
@@ -37,8 +37,8 @@ description: 现在页面中越来越多的毛玻璃效果，本文的image blur
 
 
 >关于IE9+的说明
->
-随着微软非常上进地让IE浏览器迈向了web标准，它也放弃了许多自IE5.5以来都支持的CSS属性，其中包括接下来会提到的DX滤镜。非常不幸运的是，微软没有用CSS3的属性来代替这些被放弃的CSS属性，这使得IE9,10和11处于进退两难的境地。因此，我在此建议开发者们，如果需要让你的图像模糊效果在所有浏览器上看起来一模一样的话，请用使用了canvas的解决方案[StackBlur][StackBlur]。
+
+>随着微软非常上进地让IE浏览器迈向了web标准，它也放弃了许多自IE5.5以来都支持的CSS属性，其中包括接下来会提到的DX滤镜。非常不幸运的是，微软没有用CSS3的属性来代替这些被放弃的CSS属性，这使得IE9,10和11处于进退两难的境地。因此，我在此建议开发者们，如果需要让你的图像模糊效果在所有浏览器上看起来一模一样的话，请用使用了canvas的解决方案[StackBlur][StackBlur]。
 
 
 图像模糊类似于PhotoShop中的高斯模糊，它包括CSS和SVG，这意味着我们可以在浏览器中原生地实现这种效果。（例如，用这张Khalil Shah拍摄的[图片][Khalil Shah]）
@@ -123,7 +123,7 @@ description: 现在页面中越来越多的毛玻璃效果，本文的image blur
 1. 如果你的图片的边缘都是同种颜色的，那么你可以设置`body`标签或者图片容器标签的`background-color`值为和图片边缘一样的颜色。
 2. 使用裁剪属性*clip*，来修剪图片的边缘。clip属性总是以如下的顺序声明：
 
-		clip: rect( top, offset of right clip from left side, offset of bottom from top, left)
+		clip: rect( 上, 右, 下, 左)
 以上面的实例为例，图片长度为367px，高度为459px，模糊数值为2px，所以clip要声明成如下值：
 		
 		clip: rect(2px,365px,457px,2px);
