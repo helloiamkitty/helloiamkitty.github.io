@@ -24,8 +24,8 @@ description: 现在页面中越来越多的毛玻璃效果，本文的image blur
 }
 </style>
 <div id="blur-container">
-<img src="images/blue/pakistani-woman.jpg" alt="blablabla" class="blur">
-<img src="images/blue/pakistani-woman.jpg" alt="blablabla" style="width:50%">
+<img src="../images/blue/pakistani-woman.jpg" alt="blablabla" class="blur">
+<img src="../images/blue/pakistani-woman.jpg" alt="blablabla" style="width:50%">
 </div>
 
 
