@@ -170,7 +170,7 @@ function animate(){
 			top: '-200px',
 			opacity: 0
 		});
-		var wait = Math.floor((Math.random()*2000)+1);
+		var wait = Math.floor((Math.random()*3000)+1);
 		$(this).delay(wait).animate({
 			top: '0px',
 			opacity: 1
