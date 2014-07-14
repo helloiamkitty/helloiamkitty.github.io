@@ -184,4 +184,4 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .home-menu { position:absolute; }
 }
 
-a.git-btn{display: inline-block;padding: 6px 12px;margin-bottom: 0;font-size: 14px;font-weight: normal;line-height: 1.428571429;text-align: center;white-space: nowrap;vertical-align: middle;cursor: pointer;border: 1px solid transparent;border-radius: 4px;color: white;background-color: #428BCA;border-color: #357EBD;text-decoration: none;background:none;}
+a.git-btn{display: inline-block;padding: 6px 12px;margin-bottom: 0;font-size: 14px;font-weight: normal;line-height: 1.428571429;text-align: center;white-space: nowrap;vertical-align: middle;cursor: pointer;border: 1px solid transparent;border-radius: 4px;color: white;background-image:none;background-color: #428BCA;border-color: #357EBD;text-decoration: none;}
