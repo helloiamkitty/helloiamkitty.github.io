@@ -150,7 +150,7 @@ $(function(){
 		parentId: "wrap",
 		triangleH: 10,
 		color: [
-			"#FF443E"
+			"#E9ACCA"
 		]
 	};
 	var heart = new Heart(opt);
@@ -158,9 +158,9 @@ $(function(){
 	
 	animate();
 	$(".wrap>div>div").click(animate).mouseover(function(){
-		$(this).css({"background-color":"#fff"});
+		$(this).css({"background-color":"#5A7E99"});
 	}).mouseout(function(){
-		$(this).css({"background-color":"#FF443E"});
+		$(this).css({"background-color":"#E9ACCA"});
 	});
 });
 function animate(){
@@ -170,7 +170,7 @@ function animate(){
 			top: '-200px',
 			opacity: 0
 		});
-		var wait = Math.floor((Math.random()*3000)+1);
+		var wait = Math.floor((Math.random()*2000)+1);
 		$(this).delay(wait).animate({
 			top: '0px',
 			opacity: 1
