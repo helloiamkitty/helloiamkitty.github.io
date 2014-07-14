@@ -3,6 +3,9 @@
 	background: black;
 	overflow: hidden;
 }
+#blur-container img{
+	display: inline-block;
+}
 .blur{
 	width: 48%;
 	-webkit-filter: blur(3px);
@@ -13,4 +16,11 @@
 	progid: DXImageTransform.Microsoft.Blur(pixelradius=2);
 	filter: blur(3px);
 	-webkit-transition: .9s -webkit-filter linear;
+}
+img.blur:hover{
+	-webkit-filter: blur(0px);
+	-moz-filter: blur(0px);
+	-o-filter: blur(0px);
+	-ms-filter: blur(0px);
+	filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='0');
 }
