@@ -11,9 +11,7 @@ description: 现在页面中越来越多的毛玻璃效果，本文的image blur
 <img src="/images/blur/pakistani-woman.jpg" alt="blablabla" style="width:50%">
 </div>
       
-      
-
-
+<br />
 
 *原文：* [http://demosthenes.info/blog/534/Cross-browser-Image-Blur-with-CSS][source]
 
