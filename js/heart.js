@@ -144,7 +144,7 @@ Heart.prototype = {
 	}
 };
 function animate(){
-	$('.wrap>div>div').each(function(id){
+	$('#wrap>div>div').each(function(id){
 		$(this).css({
 			position: 'relative',
 			top: '-200px',
@@ -169,7 +169,7 @@ $(function(){
 	heart.init();
 	
 	animate();
-	$(".wrap>div>div").click(animate).mouseover(function(){
+	$("#wrap>div>div").click(animate).mouseover(function(){
 		$(this).css({"background-color":"#5A7E99"});
 	}).mouseout(function(){
 		$(this).css({"background-color":"#E9ACCA"});
