@@ -5,24 +5,7 @@ category: blog
 description: 现在页面中越来越多的毛玻璃效果，本文的image blur方案，解决了大部分图片的模糊化。不过ie9+，还是得用STACKBLUR等使用js的方法来实现了。
 ---
 
-<style>
-#blur-container{
-	width: 100%;
-	background: black;
-	overflow: hidden;
-}
-.blur{
-	width: 48%;
-	-webkit-filter: blur(3px);
-	-moz-filter: blur(3px);
-	-ms-filter: blur(3px);
-	filter: blur(3px);
-	filter: url(/assets/svg/blur.svg#blur);
-	progid: DXImageTransform.Microsoft.Blur(pixelradius=2);
-	filter: blur(3px);
-	-webkit-transition: .9s -webkit-filter linear;
-}
-</style>
+<link rel="stylesheet" href="/css/image-blur.css" />
 <div id="blur-container">
 <img src="/images/blur/pakistani-woman.jpg" alt="blablabla" class="blur">
 <img src="/images/blur/pakistani-woman.jpg" alt="blablabla" style="width:50%">
