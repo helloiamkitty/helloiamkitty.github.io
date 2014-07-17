@@ -24,7 +24,7 @@ JS
 
 demo：
 
-<img width="354" height="300" src="/images/imageZoom/avatar.jpg" alt="" id="zoom" />
+<img width="354" height="300" src="/images/imageZoom/avatar.jpg" alt="" id="zoom" style="margin: 0" />
 
 
 当然，你可以设置放大镜的大小和边框的大小、颜色：
@@ -39,7 +39,7 @@ JS
 
 demo：
 
-<img width="354" height="300" src="/images/imageZoom/avatar.jpg" alt="" id="zoom1" />
+<img width="354" height="300" src="/images/imageZoom/avatar.jpg" alt="" id="zoom1" style="margin: 0" />
 
 
 如果，你设置img标签的尺寸与图片**尺寸一致**，同时在配置中传入一张**与原图大小一致**的图片，那么就能实现“撕页”效果了。
@@ -59,7 +59,7 @@ JS
 
 demo：
 
-<img width="590" height="500" src="/images/imageZoom/avatar.jpg" alt="" id="raw" />
+<img width="590" height="500" src="/images/imageZoom/avatar.jpg" alt="" id="raw" style="margin: 0" />
 
 
 
