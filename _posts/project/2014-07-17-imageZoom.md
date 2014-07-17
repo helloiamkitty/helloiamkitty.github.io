@@ -9,7 +9,7 @@ description: 一款简单易用的jQuery插件。
 <script type="text/javascript" src="/js/image_zoom_demo.js"></script>
 
 ##简介
-这是一款jQuery插件，可以便捷的在图像上增加放大镜的效果，在IE8以下版本的浏览器中放大镜的形状会变成方形。
+这是一款jQuery插件，可以便捷地在图像上增加放大镜的效果，不过在IE8以下版本的浏览器中放大镜的形状会变成方形。
 
 ##使用方法
 HTML
