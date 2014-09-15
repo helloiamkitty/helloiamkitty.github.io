@@ -40,8 +40,8 @@ tabindex特性指定一个页面元素可以取得焦点，同时也决定了该
 
 举个例子，将焦点移动到表单返回的错误信息中。该错误信息一般被放置在表单的顶部，所以你需要将用户的注意力集中到该错误信息上，同时，对只能用键盘的用户来说，他们能够从表单的开头开始修改填写出现的错误。你并不想将错误信息被包含在tab键的焦点顺序中。
 
-	<div role="group" id="errorSummary" aria-labelledby="errorSummaryHeading" tabindex="-1">
-	<h2 id="errorSummaryHeading">Your information contains three errors</h2>
+	<div role="group" id="error" aria-labelledby="errorHead" tabindex="-1">
+	<h2 id="errorHead">Your information contains three errors</h2>
 	<ul>
 	...
 	</ul>
@@ -70,3 +70,4 @@ tabindex特性具有两面性，它可能改善了，也可能摧毁了针对键
 * 避免使用tabindex=1+
 
 
+[source]: http://www.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/
