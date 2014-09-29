@@ -24,12 +24,13 @@ description: 如何实现滚动到特定高度时将指定内容固定在页面�
 1. 搜索框在它的可滚动的位置
 2. 搜索框在固定的头部的位置
 
+
 我们在这两个状态中简单地用样式名进行切换。没有必要使用两个搜索表单然后根据不同场景显示不同表单，虽然这样看起来很好，但是我们不想在维持两个搜索框之间的同步上花费功夫。所以在一个搜索表单上操作就够了。
 
 ##第一步
 ![state1](/images/scrollFix/state-1.png)
 
-我将在这里使用SCSS来写样式，这样在管理两个状态的嵌套代码会很整洁。
+我将在这里使用SCSS来写样式，这样管理两个状态的嵌套代码看起来会很整洁。
 代码：
 
 	.top-header {
@@ -109,8 +110,9 @@ jQuery代码：
 <div class="codepen-resizeable ui-resizable"><iframe id="cp_embed_AdaKr" src="//codepen.io/chriscoyier/embed/AdaKr?height=563&amp;theme-id=1&amp;slug-hash=AdaKr&amp;default-tab=result&amp;user=chriscoyier" scrolling="no" frameborder="0" height="563" allowtransparency="true" allowfullscreen="true" class="cp_embed_iframe" style="width: 100%; overflow: hidden;"></iframe><div class="cover"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div></div>
 
 
+
 ##周期性执行
-一般来说，当涉及到页面中绑定滚动事件就不得不提到周期性执行的问题：当你在滚动事件中绑定了函数时你必须考虑周期性执行，否则的话，该函数将会被频繁地调用导致页面性能下降。
+一般来说，当涉及到页面中绑定滚动事件就不得不提到周期性执行的问题：当你在滚动事件中绑定了函数时你必须考虑[周期性执行](http://davidwalsh.name/javascript-debounce-function)，否则的话，该函数将会被频繁地调用导致页面性能下降。
 
 ##CSS
 这类效果最理想的情况下是用纯CSS实现的。不过到目前为止，我还没有见到很棒的方案。但我一直惊讶于人们用CSS做出疯狂的东西，所以如果有合适的方案的话我会更新本文的。
@@ -121,9 +123,10 @@ jQuery代码：
 ##浏览器支持
 你会注意到demo里主要依赖了position的fixed属性，它在移动端有着简略的历史。当我说它在目前能得到“不错的”支持时，你应该有你自己的判断。
 相关阅读：
-* [Can I Use][http://caniuse.com/#feat=css-fixed]
-* [Fixed Positioning in Mobile Browsers][http://bradfrostweb.com/blog/mobile/fixed-position/]
-* [Issues with position fixed & scrolling on iOS][http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios]
+
+* [Can I Use](http://caniuse.com/#feat=css-fixed)
+* [Fixed Positioning in Mobile Browsers](http://bradfrostweb.com/blog/mobile/fixed-position/)
+* [Issues with position fixed & scrolling on iOS](http://remysharp.com/2012/05/24/issues-with-position-fixed-scrolling-on-ios)
 
 
 [source]: http://css-tricks.com/scroll-fix-content/
