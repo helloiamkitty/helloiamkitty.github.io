@@ -4,7 +4,7 @@ title: 小邱港货一周年
 category: read
 description: 小邱港货成立一周年，看看这一年里，都发生了些什么。
 ---
-<link rel="stylesheet" href="/css/rtx.css" />
+<link rel="stylesheet" href="/css/rtx.css?v=1" />
 <div class="rtx_wrap" id="fullpage"> 
 	<div class="page_item section page_one">
 		<div class="rtx_titleMd">
