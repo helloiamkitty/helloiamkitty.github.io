@@ -52,7 +52,7 @@ description: 小邱港货成立一周年，看看这一年里，都发生了些�
 					<p class="text_display">据小邱统计，小邱的朋友圈有<strong>1000+条</strong>朋友圈的发送量，也就是说小邱平均每天至少会发送<strong>3条</strong>朋友圈！</p>
 				</div>
 				<div class="message">
-					<img src="img/2.png" class="message_num">
+					<img src="images/rtx/2.png" class="message_num">
 					<div class="qq">
 						<i></i><i></i><i></i><i></i><i></i><i></i>
 					</div>
@@ -242,10 +242,10 @@ description: 小邱港货成立一周年，看看这一年里，都发生了些�
 <script type="text/javascript" src="/js/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="/js/rtx.js"></script>
 <script type="text/javascript">
-	var imgUrl = 'https://m.tencent.com/app/rtx1th/images/rtx512.png';
-	var lineLink = 'https://m.tencent.com/wxeapp/wechat/auth.php?state=rtx1th';
-	var descContent = "RTX那些你不知道的事~";
-	var shareTitle = 'RTX十一周年庆';
+	var imgUrl = 'http://img4.tuchuang.org/uploads/2014/11/xiaoqiuhk_logo.png';
+	var lineLink = 'http://helloiamkitty.github.io/xiaoqiuhk-1-year/';
+	var descContent = "小邱港货那些你不知道的事~";
+	var shareTitle = '小周港货年度账单';
 	var appid = '';
 	
 	function shareFriend() {
