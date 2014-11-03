@@ -52,7 +52,7 @@ description: 小邱港货成立一周年，看看这一年里，都发生了些�
 					<p class="text_display">据小邱统计，小邱的朋友圈有<strong>1000+条</strong>朋友圈的发送量，也就是说小邱平均每天至少会发送<strong>3条</strong>朋友圈！</p>
 				</div>
 				<div class="message">
-					<img src="images/rtx/2.png" class="message_num">
+					<img src="http://helloiamkitty.github.io/images/rtx/2.png" class="message_num">
 					<div class="qq">
 						<i></i><i></i><i></i><i></i><i></i><i></i>
 					</div>
