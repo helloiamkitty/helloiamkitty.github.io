@@ -49,7 +49,7 @@ body{word-wrap:break-word}
 .section-1 .ele-hand-l,.section-1 .ele-hand-r{bottom:-60px}
 .section-1 .ele-finger-r,.section-1 .ele-finger-l{bottom:50px}}
 @media only screen and (min-width:374px) and (orientation:portrait){
-.section .frame{width: 375px!important}
+/*.section .frame{width: 375px!important}*/
 .section-1 .frame{width:375px!important}
 .section-1 .ele-hand-l{left:18px}
 .section-1 .ele-hand-r{right:18px}
