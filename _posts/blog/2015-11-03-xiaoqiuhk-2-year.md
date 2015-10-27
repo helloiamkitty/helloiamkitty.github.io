@@ -20,18 +20,18 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 </h1>
 
 
-<div class="loadingPage" style="display: none;">
+<div class="loadingPage">
     <!--<h2>资源加载中</h2>-->
     <p class="loading-title">loading...</p>
     <div class="loading-area">
-        <p class="loading-num">100%</p>
+        <p class="loading-num">1%</p>
         <div class="loading-out">
-            <div class="loading-inner" style="width: 100%;"></div>
+            <div class="loading-inner"></div>
         </div>
     </div>
 </div>
-<div id="fullpage" style="height: 100%; position: relative; touch-action: none; transform: translate3d(0px, 0px, 0px);" class="fullpage-wrapper">
-    <div class="section section-1 fp-section active fp-table" style="height: 568px; background-color: rgb(255, 255, 255);"><div class="fp-tableCell" style="height:568px;">
+<div id="fullpage" style="display: none;">
+    <div class="section section-1">
         <div class="frame">
             <div class="ele-title">报告老板 小邱港货运营2周年了</div>
             <div class="ele-ship"></div>
@@ -47,8 +47,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="ele-cloud-b"></div>
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-3 fp-section fp-table" style="height: 568px; background-color: rgb(123, 201, 231);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-3">
         <div class="frame">
             <h2 class="title">关于时间</h2>
             <div class="data" style="right: 10px;top:75px;"><p>客服+发广告平均每天花费<span>1.5</span>小时</p>
@@ -70,8 +70,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="ele-books"></div>
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-4 fp-section fp-table" style="height: 568px; background-color: rgb(123, 201, 231);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-4">
         <div class="frame">
             <h2 class="title">关于分工</h2>
 
@@ -102,8 +102,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             </div>
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-5 fp-section fp-table" style="height: 568px; background-color: rgb(5, 189, 100);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-5">
         <div class="frame">
             <h2 class="title">关于成本</h2>
 
@@ -148,8 +148,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             </div>
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-6 fp-section fp-table" style="height: 568px; background-color: rgb(5, 189, 100);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-6">
             <div class="frame">
                 <h2 class="title">关于订单</h2>
                 <div class="ele-lock-man"></div>
@@ -188,8 +188,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                 </div>
                 <span class="up"></span>
             </div>
-        </div></div>
-    <div class="section section-7 fp-section fp-table" style="height: 568px; background-color: rgb(95, 163, 255);"><div class="fp-tableCell" style="height:568px;">
+        </div>
+    <div class="section section-7">
         <div class="frame">
             <h2 class="title">关于客户</h2>
             <div class="ele-pop"></div>
@@ -223,8 +223,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-8 fp-section fp-table" style="height: 568px; background-color: rgb(95, 163, 255);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-8">
             <div class="frame">
                 <h2 class="title">应用安装与使用</h2>
 
@@ -250,8 +250,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 
                 <span class="up"></span>
             </div>
-        </div></div>
-    <div class="section section-9 fp-section fp-table" style="height: 568px; background-color: rgb(95, 163, 255);"><div class="fp-tableCell" style="height:568px;">
+        </div>
+    <div class="section section-9">
         <div class="frame">
             <h2 class="title">关于土豪</h2>
 
@@ -279,8 +279,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="ele-pop"></div>
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-10 fp-section fp-table" style="height: 568px; background-color: rgb(95, 163, 255);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-10">
             <div class="frame">
                 <h2 class="title">使用动机</h2>
                 <div class="ele-radar-net">
@@ -295,8 +295,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                 <div class="ele-radar-pop"></div>
                 <span class="up"></span>
             </div>
-        </div></div>
-    <div class="section section-11 fp-section fp-table" style="height: 568px; background-color: rgb(78, 198, 178);"><div class="fp-tableCell" style="height:568px;">
+        </div>
+    <div class="section section-11">
                 <div class="frame">
                     <h2 class="title">付款习惯</h2>
                     <div class="ele-sit-man"></div>
@@ -328,8 +328,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                     </div>
                     <span class="up"></span>
                 </div>
-            </div></div>
-    <div class="section section-12 fp-section fp-table" style="height: 568px; background-color: rgb(78, 198, 178);"><div class="fp-tableCell" style="height:568px;">
+            </div>
+    <div class="section section-12">
                     <div class="frame">
                         <h2 class="title">使用习惯</h2>
                         <div class="ele-finger-12"></div>
@@ -367,8 +367,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                         </div>
                         <span class="up"></span>
                     </div>
-                </div></div>
-    <div class="section section-13 fp-section fp-table" style="height: 568px; background-color: rgb(78, 198, 178);"><div class="fp-tableCell" style="height:568px;">
+                </div>
+    <div class="section section-13">
                         <div class="frame">
                             <h2 class="title">使用习惯</h2>
                             <div class="ele-pad-13"></div>
@@ -394,8 +394,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                             </div>
                             <span class="up"></span>
                         </div>
-                    </div></div>
-    <div class="section section-14 fp-section fp-table" style="height: 568px; background-color: rgb(247, 149, 54);"><div class="fp-tableCell" style="height:568px;">
+                    </div>
+    <div class="section section-14">
         <div class="frame">
             <h2 class="title">关于送礼</h2>
             <div class="circle">
@@ -414,8 +414,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                 </div>
             <span class="up"></span>
         </div>
-    </div></div>
-    <div class="section section-15 fp-section fp-table" style="height: 568px; background-color: rgb(247, 149, 54);"><div class="fp-tableCell" style="height:568px;">
+    </div>
+    <div class="section section-15">
             <div class="frame">
                 <h2 class="title">处置</h2>
                 <div class="ele-pop"></div>
@@ -436,8 +436,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                 </div>
                 <span class="up"></span>
             </div>
-        </div></div>
-    <div class="section section-16 fp-section fp-table" style="height: 568px; background-color: rgb(237, 36, 56);"><div class="fp-tableCell" style="height:568px;">
+        </div>
+    <div class="section section-16">
                 <div class="frame">
                     <h2 class="title">关于现任店主</h2>
                     <div class="ele-man"></div>
@@ -450,17 +450,17 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                     <span class="up"></span>
             </div>
 
-</div></div>
-    <div class="section section-17 fp-section fp-table" style="height: 568px; background-color: rgb(239, 245, 249);"><div class="fp-tableCell" style="height:568px;">
-                           <div class="frame">
-                                <div class="ele-share"></div>
-                                <div class="ele-logo"></div>
-                                <div class="ele-info"></div>
-                                <div class="ele-btn"><a style="color: #ff4086;display: block;width: 100%;height: 100%;" href="http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/detail.html">点击查看我的微店</a></div>
-                           </div>
-        </div></div>
+</div>
+    <div class="section section-17">
+       <div class="frame">
+            <div class="ele-share"></div>
+            <div class="ele-logo"></div>
+            <div class="ele-info"></div>
+            <div class="ele-btn"><a style="color: #ff4086;display: block;width: 100%;height: 100%;" href="detail.html">点击查看我的微店</a></div>
+       </div>
+        </div>
     </div>
-<div class="section-nav" style="margin-top: -144px;"><span class="active"></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+<div class="section-nav"></div>
 <div class="phone-change">
     <div class="change-area">
         <div class="phone-x"></div>
@@ -469,6 +469,13 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
         <p class="phone-tips">为了更好地体验 请将手机竖屏</p>
     </div>
 </div>
+
+<!-- 活动 版权 开始 -->
+<!-- <div class="footer">
+    <div class="footer_wrap">腾讯公司 版权所有</div>
+</div> -->
+<!-- 活动 版权 结束 -->
+
 
 <script type="text/javascript" src="../../js/xiaoqiu/countUp.min.js"></script>
 <script type="text/javascript" src="../../js/xiaoqiu/jquery-2.0.3.min.js"></script>
