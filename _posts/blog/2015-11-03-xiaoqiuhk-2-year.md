@@ -151,7 +151,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     </div>
     <div class="section section-6">
             <div class="frame">
-                <h2 class="title">关于订单</h2>
+                <h2 class="title">关于消费结构</h2>
                 <div class="ele-lock-man"></div>
                 <div class="ele-unlock-man unlock-1"></div>
                 <div class="ele-unlock-man unlock-2"></div>
@@ -206,7 +206,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                         <li data-0="8" data-len="27"><span class="td-data" data-0="8"></span></li>
                     </ul>
                 </div>
-                <p class="table-tag"><span class="tag1">1-3</span><span class="tag2">4-6</span><span class="tag3">7-10</span><span class="tag4">11-15</span><span class="tag5">16-20</span><span class="tag6">21-30</span><span class="tag7">31+(个)</span></p>
+                <p class="table-tag"><span class="tag1">1-3</span><span class="tag2">4-6</span><span class="tag3">7-10</span><span class="tag4">11-15</span><span class="tag5">16-20</span><span class="tag6">21-30</span><span class="tag7">31+(次/个)</span></p>
                 <div class="table2">
                     <p class="sub-title">推荐好友数量</p>
                     <ul>
@@ -226,11 +226,11 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     </div>
     <div class="section section-8">
             <div class="frame">
-                <h2 class="title">应用安装与使用</h2>
+                <h2 class="title">关于性别</h2>
 
                 <div class="table-wrap">
                     <div class="table1">
-                        <p class="sub-title"><span></span>平均安装应用个数</p>
+                        <p class="sub-title"><span></span>最大消费类别占比</p>
                         <ul>
                             <li data-0="16" data-len="135" class="high-light higher"><span class="td-data" data-0="16"></span></li>
                             <li data-0="7" data-len="68"><span class="td-data" data-0="7"></span></li>
@@ -238,7 +238,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                         <div class="ele-pad"></div>
                     </div>
                     <div class="table2">
-                        <p class="sub-title"><span></span>平均常用应用个数</p>
+                        <p class="sub-title"><span></span>第二消费类别占比</p>
                         <ul>
                             <li data-0="12" data-len="110" class="high-light higher"><span class="td-data" data-0="12"></span></li>
                             <li data-0="7" data-len="68"><span class="td-data" data-0="7"></span></li>
@@ -253,7 +253,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
         </div>
     <div class="section section-9">
         <div class="frame">
-            <h2 class="title">关于土豪</h2>
+            <h2 class="title">关于壕榜</h2>
 
             <div class="table-wrap">
                 <ul>
@@ -282,14 +282,14 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     </div>
     <div class="section section-10">
             <div class="frame">
-                <h2 class="title">使用动机</h2>
+                <h2 class="title">关于下单时间</h2>
                 <div class="ele-radar-net">
-                    <div class="data high-light" style="top:-3px;left:122px;"><p>4.26</p><p>休闲娱乐</p></div>
-                    <div class="data" style="top:54px;left:245px;"><p>2.63</p><p>工作</p></div>
-                    <div class="data" style="top:232px;left:268px;"><p>2.75</p><p>学习</p></div>
-                    <div class="data" style="top:287px;left:147px;"><p>3.48</p><p>生活</p></div>
-                    <div class="data" style="top:230px;left:22px;"><p>3.60</p><p>社交</p></div>
-                    <div class="data" style="top:54px;left:31px;"><p>2.07</p><p>教育孩子</p></div>
+                    <div class="data high-light" style="top:-3px;left:122px;"><p>4.26</p><p>周四</p></div>
+                    <div class="data" style="top:54px;left:245px;"><p>2.63</p><p>周五</p></div>
+                    <div class="data" style="top:232px;left:268px;"><p>2.75</p><p>周二</p></div>
+                    <div class="data" style="top:287px;left:147px;"><p>3.48</p><p>周三</p></div>
+                    <div class="data" style="top:230px;left:22px;"><p>3.60</p><p>周末</p></div>
+                    <div class="data" style="top:54px;left:31px;"><p>2.07</p><p>周一</p></div>
                 </div>
                 <div class="ele-radar-inner"></div>
                 <div class="ele-radar-pop"></div>
@@ -446,7 +446,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                     <div class="data" style="top:125px;left:209px;"><p><span>凯凯</span></p><p>昵称</p><hr class="hr-line h-right h-up" style="width: 60px;float: left;"></div>
                     <div class="data" style="top:185px;left:22px;"><p><span>发广告</span></p><p>爱好</p><hr class="hr-line h-left h-up" style="width: 97px;float: left;margin-top: 10px!important;"></div>
                     <div class="data" style="top:320px;left:50px;"><p><span>IT</span></p><p>主业</p><hr class="hr-line h-left h-up" style="width: 88px;float: left;margin-top: 10px!important;"></div>
-                    <div class="data" style="top:268px;left:205px;"><p style="text-align: right;"><span>随时！</span></p><p style="text-align: right;">约？</p><hr class="hr-line h-right h-up" style="width: 90px;float: left;margin-top: 10px!important;"></div>
+                    <div class="data" style="top:268px;left:205px;"><p style="text-align: right;"><span>随时！</span></p><p style="text-align: right;">约吗？</p><hr class="hr-line h-right h-up" style="width: 90px;float: left;margin-top: 10px!important;"></div>
                     <span class="up"></span>
             </div>
 
