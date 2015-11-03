@@ -1,24 +1,24 @@
 
-var arrImg = ["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/bg2.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/sprite/style-coi140917145322.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-ios.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-and.png"];
-var arrImg2x = ["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/bg2@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/sprite/style-coi140917145322@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-ios@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-and@2x.png"];
+var arrImg = ["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-ios.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-and.png"];
+var arrImg2x = ["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-ios@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-and@2x.png"];
 var lazyLoad = {
-    section_0: ["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/bg2@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/bg2.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/sprite/style-coi140917145322@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/sprite/style-coi140917145322.png"],
+    section_0: ["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322.png"],
     section_1: [],
     section_3: [],
-    section_4: ["http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-ios@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-and@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-ios.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-and.png"],
+    section_4: ["http://helloiamkitty.github.io/images/xiaoqiu/img/pie-ios@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-and@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-ios.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pie-and.png"],
     section_5: [],
     section_6: [],
-    section_7: ["http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pop-7@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pop-7.png"],
-    section_8: ["http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pop-8@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/pop-8.png"],
+    section_7: ["http://helloiamkitty.github.io/images/xiaoqiu/img/pop-7@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pop-7.png"],
+    section_8: ["http://helloiamkitty.github.io/images/xiaoqiu/img/pop-8@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pop-8.png"],
     section_9: [],
-    section_10: ["http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/radar-net@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/radar-inner@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/radar-pop@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/radar-net.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/radar-inner.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/radar-pop.png"],
-    section_11: ["http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/face-hit@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/face-hit.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/face@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/face.png"],
+    section_10: ["http://helloiamkitty.github.io/images/xiaoqiu/img/radar-net@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/radar-inner@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/radar-pop@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/radar-net.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/radar-inner.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/radar-pop.png"],
+    section_11: ["http://helloiamkitty.github.io/images/xiaoqiu/img/face-hit@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/face-hit.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/face@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/face.png"],
     section_12: [],
     section_13: [],
     section_14: [],
     section_15: [],
     section_16: [],
-    section_17: ["http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/share@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/logo@2x.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/share.png", "http://qzonestyle.gtimg.cn/touch_proj/proj-pad-report/img/logo.png"]
+    section_17: ["http://helloiamkitty.github.io/images/xiaoqiu/img/share@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/logo@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/share.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/logo.png"]
 };
 var loading_single = function(numLoaded, length, src, obj) {
     var width_pro = (numLoaded / length) * 100;
