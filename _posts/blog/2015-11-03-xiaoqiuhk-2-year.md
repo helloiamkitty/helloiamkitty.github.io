@@ -4,8 +4,8 @@ title: 小邱港货2周年
 category: read
 description: 小邱港货成立2周年啦，看看这一年里，都发生了些什么。
 ---
-<link href="../../css/xiaoqiu/jquery.fullPage.css" rel="stylesheet">
-<link href="../../css/xiaoqiu/style-pad.css?_=2" rel="stylesheet">
+<link href="../../css/xiaoqiu/jquery.fullPage.css?_=3" rel="stylesheet">
+<link href="../../css/xiaoqiu/style-pad.css?_=3" rel="stylesheet">
 <style type="text/css">
 .phone-change .change-area{margin-top: -42px!important;}
 .section-nav{position: fixed;z-index: 100;top:50%;right: 5px;opacity: .5;}
@@ -529,12 +529,11 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 </div>
 
 
-<script type="text/javascript" src="../../js/xiaoqiu/countUp.min.js"></script>
+<script type="text/javascript" src="../../js/xiaoqiu/countUp.min.js?_=3"></script>
 <script type="text/javascript" src="../../js/xiaoqiu/jquery-2.0.3.min.js"></script>
-<script type="text/javascript" src="../../js/xiaoqiu/loadImg.js"></script>
-<script type="text/javascript" src="../../js/xiaoqiu/jquery.fullPage.min.js"></script>
-<script type="text/javascript" src="../../js/xiaoqiu/weixinshare.js"></script>
-<script type="text/javascript" src="../../js/xiaoqiu/tcisd.js"></script>
+<script type="text/javascript" src="../../js/xiaoqiu/loadImg.js?_=3"></script>
+<script type="text/javascript" src="../../js/xiaoqiu/jquery.fullPage.min.js?_=3"></script>
+<script type="text/javascript" src="../../js/xiaoqiu/weixinshare.js?_=3"></script>
 <script type="text/javascript">
 //    var w= document.body.clientWidth;
 //    var h=window.innerHeight|| document.documentElement.clientHeight|| document.body.clientHeight;
