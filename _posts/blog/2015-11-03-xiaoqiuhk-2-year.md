@@ -572,13 +572,13 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
               prefix : '',
               suffix : '%'
         };
-    var demo = new countUp("num22", 0, 46, 0, 0.5, ops);
-    demo.start();
-    $('.section-' + 5).find('li').each(function () {
-        var demo = new countUp("n5-" + $(this).attr('data-0'), 0, $(this).attr('data-0'), 0, 0.5, ops);
-        demo.start();
-        $(this).find('.td-data').animate({'width': $(this).attr('data-len') + 'px'},1000);
-    });
+    // var demo = new countUp("num22", 0, 46, 0, 0.5, ops);
+    // demo.start();
+    // $('.section-' + 5).find('li').each(function () {
+    //     var demo = new countUp("n5-" + $(this).attr('data-0'), 0, $(this).attr('data-0'), 0, 0.5, ops);
+    //     demo.start();
+    //     $(this).find('.td-data').animate({'width': $(this).attr('data-len') + 'px'},1000);
+    // });
     }
 
 function scene6(index){
