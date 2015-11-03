@@ -10,7 +10,18 @@ textarea:focus,input:focus,button:focus{outline:none}
 body{word-wrap:break-word}
 *{-webkit-tap-highlight-color:rgba(0,0,0,0)}
 .section-1{background-size:100% 100%!important;background-image:url(../../images/xiaoqiu/img/bg2.png)}
-.section-1 .ele-title{top:40px;left:50%;opacity:1;margin-left:-126px;width:253px;height:123px;position:absolute;z-index:3}
+.section-1 .ele-title{
+	top: 40px;
+    left: 50%;
+    opacity: 1;
+    margin-left: -126px;
+    width: 253px;
+    height: 123px;
+    background-image: url(sprite/style-pad-coi140917145322.png);
+    background-position: -1311px 0;
+    position: absolute;
+    z-index: 3;
+}
 .section-1 .ele-ship{top:10px;right:1px;opacity:1;width:66px;height:54px;background-image:url(../../images/xiaoqiu/sprite/style-pad-coi140917145322.png);background-position:-1128px -332px;position:absolute;z-index:2}
 .section-1 .ele-pad{bottom:60px;left:50%;opacity:1;margin-left:-94px;width:192px;height:261px;background-image:url(../../images/xiaoqiu/sprite/style-pad-coi140917145322.png);background-position:-430px 0;position:absolute;z-index:2}
 .section-1 .ele-hand-l{bottom:0;left:0;opacity:1;width:119px;height:219px;background-image:url(../../images/xiaoqiu/sprite/style-pad-coi140917145322.png);background-position:-623px 0;position:absolute}
