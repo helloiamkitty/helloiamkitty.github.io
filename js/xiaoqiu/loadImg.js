@@ -46,9 +46,9 @@ var loading_all = function(numError) {
         	"#7bc9e7", 
         	"#05bd64", 
         	"#05bd64", 
-        	"#5fa3ff", 
         	"#5fa3ff",
-        	"#4ec6b2", 
+        	"#5fa3ff",
+        	"#5fa3ff",
         	"#f79536", 
         	"#ed2438", 
         	"#eff5f9"];
