@@ -49,9 +49,9 @@ var loading_all = function(numError) {
         	"#5fa3ff",
         	"#5fa3ff",
         	"#5fa3ff",
-        	"#f79536", 
-        	"#ed2438", 
-        	"#eff5f9"];
+        	"#4EC6B2", 
+        	"#F79536", 
+        	"#ED2438"];
         $('#fullpage').fullpage({
             verticalCentered: true,
             scrollingSpeed: 20,
