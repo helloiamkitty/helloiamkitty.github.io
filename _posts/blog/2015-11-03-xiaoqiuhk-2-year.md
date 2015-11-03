@@ -33,7 +33,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 <div id="fullpage" style="display: none;">
     <div class="section section-1">
         <div class="frame">
-            <div class="ele-title">报告老板 小邱港货运营2周年了</div>
+            <div class="ele-title"></div>
             <div class="ele-ship"></div>
             <div class="rotate-dom" style="transform: rotateY(0deg);">
                 <div class="ele-pad"></div>
@@ -224,7 +224,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <span class="up"></span>
         </div>
     </div>
-    <div class="section section-8">
+    <!-- <div class="section section-8">
             <div class="frame">
                 <h2 class="title">关于性别</h2>
 
@@ -250,28 +250,28 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 
                 <span class="up"></span>
             </div>
-        </div>
+        </div> -->
     <div class="section section-9">
         <div class="frame">
             <h2 class="title">关于壕榜</h2>
 
             <div class="table-wrap">
                 <ul>
-                    <li data-0="15000" data-id="n9-15000" data-len="132" class=""><span class="td-title">No.1</span><span class="td-data"></span><span id="n9-15000" class="td-num"></span></li>
-                    <li data-0="60" data-id="n9-60" data-len="117"><span class="td-title">No.2</span><span class="td-data"></span><span id="n9-60" class="td-num"></span></li>
-                    <li data-0="48" data-id="n9-48" data-len="102"><span class="td-title">No.3</span><span class="td-data"></span><span id="n9-48" class="td-num"></span></li>
-                    <li data-0="45" data-id="n9-45" data-len="95"><span class="td-title">No.4</span><span class="td-data"></span><span id="n9-45" class="td-num"></span></li>
-                    <li data-0="29" data-id="n9-29" data-len="74"><span class="td-title">No.5</span><span class="td-data"></span><span id="n9-29" class="td-num"></span></li>
-                    <li data-0="21" data-id="n9-21" data-len="66"><span class="td-title">No.6</span><span class="td-data"></span><span id="n9-21" class="td-num"></span></li>
-                    <li data-0="15" data-id="n9-15" data-len="58"><span class="td-title">No.7</span><span class="td-data"></span><span id="n9-15" class="td-num"></span></li>
-                    <li data-0="15" data-id="n9-15-2" data-len="58"><span class="td-title">No.8</span><span class="td-data"></span><span id="n9-15-2" class="td-num"></span></li>
-                    <li data-0="14" data-id="n9-14" data-len="54"><span class="td-title">No.9</span><span class="td-data"></span><span id="n9-14" class="td-num"></span></li>
-                    <li data-0="13" data-id="n9-13" data-len="50"><span class="td-title">No.10</span><span class="td-data"></span><span id="n9-13" class="td-num"></span></li>
-                    <li data-0="12" data-id="n9-12" data-len="46"><span class="td-title">No.11</span><span class="td-data"></span><span id="n9-12" class="td-num"></span></li>
-                    <li data-0="11" data-id="n9-11" data-len="41"><span class="td-title">No.12</span><span class="td-data"></span><span id="n9-11" class="td-num"></span></li>
-                    <li data-0="11" data-id="n9-11-2" data-len="41"><span class="td-title">No.13</span><span class="td-data"></span><span id="n9-11-2" class="td-num"></span></li>
-                    <li data-0="4" data-id="n9-4" data-len="13"><span class="td-title">No.14</span><span class="td-data"></span><span id="n9-4" class="td-num"></span></li>
-                    <li data-0="1" data-id="n9-1" data-len="8"><span class="td-title">No.15</span><span class="td-data"></span><span id="n9-1" class="td-num"></span></li>
+                    <li data-0="27657" data-id="n9-27657" data-len="132" class=""><span class="td-title">No.1</span><span class="td-data"></span><span id="n9-27657" class="td-num"></span></li>
+                    <li data-0="24289" data-id="n9-24289" data-len="128"><span class="td-title">No.2</span><span class="td-data"></span><span id="n9-24289" class="td-num"></span></li>
+                    <li data-0="23049" data-id="n9-23049" data-len="120"><span class="td-title">No.3</span><span class="td-data"></span><span id="n9-23049" class="td-num"></span></li>
+                    <li data-0="22193" data-id="n9-22193" data-len="115"><span class="td-title">No.4</span><span class="td-data"></span><span id="n9-22193" class="td-num"></span></li>
+                    <li data-0="19660" data-id="n9-19660" data-len="104"><span class="td-title">No.5</span><span class="td-data"></span><span id="n9-19660" class="td-num"></span></li>
+                    <li data-0="17362" data-id="n9-17362" data-len="98"><span class="td-title">No.6</span><span class="td-data"></span><span id="n9-17362" class="td-num"></span></li>
+                    <li data-0="17100" data-id="n9-17100" data-len="96"><span class="td-title">No.7</span><span class="td-data"></span><span id="n9-17100" class="td-num"></span></li>
+                    <li data-0="13282" data-id="n9-13282" data-len="88"><span class="td-title">No.8</span><span class="td-data"></span><span id="n9-13282" class="td-num"></span></li>
+                    <li data-0="12513" data-id="n9-12513" data-len="81"><span class="td-title">No.9</span><span class="td-data"></span><span id="n9-12513" class="td-num"></span></li>
+                    <li data-0="12462" data-id="n9-12462" data-len="79"><span class="td-title">No.10</span><span class="td-data"></span><span id="n9-12462" class="td-num"></span></li>
+                    <li data-0="11736" data-id="n9-11736" data-len="70"><span class="td-title">No.11</span><span class="td-data"></span><span id="n9-11736" class="td-num"></span></li>
+                    <li data-0="10815" data-id="n9-10815" data-len="68"><span class="td-title">No.12</span><span class="td-data"></span><span id="n9-10815" class="td-num"></span></li>
+                    <li data-0="9734" data-id="n9-9734" data-len="52"><span class="td-title">No.13</span><span class="td-data"></span><span id="n9-9734" class="td-num"></span></li>
+                    <li data-0="9555" data-id="n9-9555" data-len="50"><span class="td-title">No.14</span><span class="td-data"></span><span id="n9-9555" class="td-num"></span></li>
+                    <li data-0="9150" data-id="n9-9150" data-len="45"><span class="td-title">No.15</span><span class="td-data"></span><span id="n9-9150" class="td-num"></span></li>
 
                 </ul>
             </div>
@@ -284,8 +284,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="frame">
                 <h2 class="title">关于下单时间</h2>
                 <div class="ele-radar-net">
-                    <div class="data high-light" style="top:-3px;left:122px;"><p>4.26</p><p>周四</p></div>
-                    <div class="data" style="top:54px;left:245px;"><p>2.63</p><p>周五</p></div>
+                    <div class="data high-light" style="top:-3px;left:122px;"><p>4.26</p><p>周五</p></div>
+                    <div class="data" style="top:54px;left:245px;"><p>2.63</p><p>周四</p></div>
                     <div class="data" style="top:232px;left:268px;"><p>2.75</p><p>周二</p></div>
                     <div class="data" style="top:287px;left:147px;"><p>3.48</p><p>周三</p></div>
                     <div class="data" style="top:230px;left:22px;"><p>3.60</p><p>周末</p></div>
@@ -298,7 +298,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
         </div>
     <div class="section section-11">
                 <div class="frame">
-                    <h2 class="title">付款习惯</h2>
+                    <h2 class="title">关于付款习惯</h2>
                     <div class="ele-sit-man"></div>
                     <div class="ele-sleep-man"></div>
                     <div class="ele-hit-pop"></div>
@@ -329,7 +329,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                     <span class="up"></span>
                 </div>
             </div>
-    <div class="section section-12">
+    <!-- <div class="section section-12">
                     <div class="frame">
                         <h2 class="title">使用习惯</h2>
                         <div class="ele-finger-12"></div>
@@ -357,7 +357,6 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                         </div>
                         <div class="loop loop-3">
                             <div class="hold hold1"><div class="loop-inner"></div></div>
-                            <!--<div class="hold hold2"><div class="loop-inner"></div></div>-->
                             <div class="hold-bg"></div>
                             <div class="loop-tab">
                                 <p class="loop-radio">40%</p>
@@ -367,8 +366,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                         </div>
                         <span class="up"></span>
                     </div>
-                </div>
-    <div class="section section-13">
+                </div> -->
+    <!-- <div class="section section-13">
                         <div class="frame">
                             <h2 class="title">使用习惯</h2>
                             <div class="ele-pad-13"></div>
@@ -394,7 +393,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                             </div>
                             <span class="up"></span>
                         </div>
-                    </div>
+                    </div> -->
     <div class="section section-14">
         <div class="frame">
             <h2 class="title">关于送礼</h2>
@@ -410,12 +409,12 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="ele-human-main"></div>
             <div class="sub-title">
             <p>近三成</p>
-            <p style="font-size: 15px;">是买来送给别人</p>
+            <p style="font-size: 15px;">的订单是亲们买来送人的</p>
                 </div>
             <span class="up"></span>
         </div>
     </div>
-    <div class="section section-15">
+    <!-- <div class="section section-15">
             <div class="frame">
                 <h2 class="title">处置</h2>
                 <div class="ele-pop"></div>
@@ -436,10 +435,10 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                 </div>
                 <span class="up"></span>
             </div>
-        </div>
+        </div> -->
     <div class="section section-16">
                 <div class="frame">
-                    <h2 class="title">关于现任店主</h2>
+                    <h2 class="title">关于店主</h2>
                     <div class="ele-man"></div>
                     <div class="ele-gold"></div>
                     <div class="data" style="top:67px;left:50px;"><p><span>男</span></p><p>性别</p><hr class="hr-line h-left h-up" style="width: 80px;float: left;"></div>
@@ -456,7 +455,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="ele-share"></div>
             <div class="ele-logo"></div>
             <div class="ele-info"></div>
-            <div class="ele-btn"><a style="color: #ff4086;display: block;width: 100%;height: 100%;" href="detail.html">点击查看我的微店</a></div>
+            <div class="ele-btn"><a style="color: #ff4086;display: block;width: 100%;height: 100%;" target="_blank" href="http://weidian.com/?userid=160615473">点击查看我的微店</a></div>
        </div>
         </div>
     </div>
@@ -469,12 +468,6 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
         <p class="phone-tips">为了更好地体验 请将手机竖屏</p>
     </div>
 </div>
-
-<!-- 活动 版权 开始 -->
-<!-- <div class="footer">
-    <div class="footer_wrap">腾讯公司 版权所有</div>
-</div> -->
-<!-- 活动 版权 结束 -->
 
 
 <script type="text/javascript" src="../../js/xiaoqiu/countUp.min.js"></script>

@@ -967,7 +967,11 @@ to{background-position:0 0}}
 .section-16 .frame .ele-gold{top:345px}
 .section-17 .ele-btn{top:260px}}
 @media only screen and (-webkit-min-device-pixel-ratio:1.25),only screen and (min-resolution:120dpi),only screen and (min-resolution:1.25dppx){.section-1{background-image:url(../../images/xiaoqiu/img/bg2@2x.png);background-size:320px 504px}
-.section-1 .ele-title{}
+.section-1 .ele-title{
+	background-image: url(sprite/style-pad-coi140917145322@2x.png);
+    background-size: 2223px 334px;
+    background-position: -1466px -149px;
+}
 .section-1 .ele-ship{background-image:url(../../images/xiaoqiu/sprite/style-pad-coi140917145322@2x.png);background-size:2223px 334px;background-position:-1637px -273px}
 .section-1 .ele-pad{background-image:url(../../images/xiaoqiu/sprite/style-pad-coi140917145322@2x.png);background-size:2223px 334px;background-position:-430px 0}
 .section-1 .ele-hand-l{background-image:url(../../images/xiaoqiu/sprite/style-pad-coi140917145322@2x.png);background-size:2223px 334px;background-position:-623px 0}
