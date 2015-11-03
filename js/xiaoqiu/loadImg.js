@@ -59,6 +59,7 @@ var loading_all = function(numError) {
             css3: true,
             sectionsColor: back_color,
             onLeave: function(index, direction) {
+            	console.log(index)
                 $('.section-nav span').removeClass('active');
                 if (index > direction)
                     $('.section-nav span').eq(index - 2).addClass('active');
@@ -87,6 +88,7 @@ var loading_all = function(numError) {
                 }
             },
             afterLoad: function(anchorLink, index) {
+            	console.log(index)
                 cur_index = index;
                 switch (index) {
                     case 4:
