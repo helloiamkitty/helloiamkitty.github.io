@@ -37,7 +37,7 @@ var loading_all = function(numError) {
             return false;
         };
         $('.ele-btn a').click(function() {
-            window.location = "detail.html"
+            window.location = "http://weidian.com/?userid=160615473"
         });
         var cur_index = 1;
         var back_color = [
