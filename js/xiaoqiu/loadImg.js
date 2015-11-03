@@ -1,6 +1,6 @@
 
 var arrImg = ["http://helloiamkitty.github.io/images/xiaoqiu/img/xiaoqiuhk_logo.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-ios.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-and.png"];
-var arrImg2x = ["hhttp://helloiamkitty.github.io/images/xiaoqiu/img/xiaoqiuhk_logo.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-ios@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-and@2x.png"];
+var arrImg2x = ["http://helloiamkitty.github.io/images/xiaoqiu/img/xiaoqiuhk_logo.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-ios@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/pie-and@2x.png"];
 var lazyLoad = {
     section_0: ["http://helloiamkitty.github.io/images/xiaoqiu/img/xiaoqiuhk_logo.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/img/bg2.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322@2x.png", "http://helloiamkitty.github.io/images/xiaoqiu/sprite/style-coi140917145322.png"],
     section_1: [],
