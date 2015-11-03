@@ -108,7 +108,6 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <h2 class="title">关于成本</h2>
 
             <div class="bg-top">
-                <span class="num" id="num22"></span>
             </div>
             <p class="sub-title">支出比例</p>
 
