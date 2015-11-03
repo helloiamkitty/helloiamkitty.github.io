@@ -252,7 +252,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
         </div> -->
     <div class="section section-9">
         <div class="frame">
-            <h2 class="title">关于壕榜</h2>
+            <h2 class="title">关于壕消费榜</h2>
 
             <div class="table-wrap">
                 <ul>
@@ -599,7 +599,7 @@ function scene9(index) {
                   useGrouping : true,
                   separator : ',',
                   decimal : '.',
-                  prefix : '',
+                  prefix : '￥',
                   suffix : ''
     };
     $('.section-' + 9).find('li').each(function () {
