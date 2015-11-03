@@ -101,7 +101,7 @@ var loading_all = function(numError) {
                         scene7(index);
                         break;
                     case 7:
-                        scene8(index);
+                        scene9(index);
                         break;
                     case 8:
                         scene9(index);
