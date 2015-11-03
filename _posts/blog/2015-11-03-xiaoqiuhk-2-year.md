@@ -531,7 +531,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
 
 <script type="text/javascript" src="../../js/xiaoqiu/countUp.min.js?_=3"></script>
 <script type="text/javascript" src="../../js/xiaoqiu/jquery-2.0.3.min.js"></script>
-<script type="text/javascript" src="../../js/xiaoqiu/loadImg.js?_=3"></script>
+<script type="text/javascript" src="../../js/xiaoqiu/loadImg.js?_=4"></script>
 <script type="text/javascript" src="../../js/xiaoqiu/jquery.fullPage.min.js?_=3"></script>
 <script type="text/javascript" src="../../js/xiaoqiu/weixinshare.js?_=3"></script>
 <script type="text/javascript">

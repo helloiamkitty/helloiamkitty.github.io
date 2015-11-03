@@ -30,7 +30,7 @@ var loading_all = function(numError) {
     $('#fullpage').show();
     $('.loadingPage').fadeOut();
     $('.ele-btn a').click(function() {
-        window.location = "detail.html"
+        window.location = "http://weidian.com/?userid=160615473"
     });
     $(document).ready(function() {
         document.body.onclick = function() {
