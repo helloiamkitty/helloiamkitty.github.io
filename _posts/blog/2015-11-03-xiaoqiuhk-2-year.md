@@ -643,7 +643,6 @@ function scene8(index){
         if(arr!=null&&arr!=undefined)
         firstLoad=firstLoad.concat(lazyLoad["section_"+i]);
     }
-    TCISD.pv('mall.qzone.qq.com','/touch_proj/proj-pad-report/index.html');
     if(window.devicePixelRatio==null||window.devicePixelRatio==undefined){
         loadimg(["http://qzonestyle.gtimg.cn/aoi/sola/20141009162923_NXt0OmYzxt.png"],loading_single,loading_all,loading_error);
     }
