@@ -5,7 +5,7 @@ category: read
 description: 小邱港货成立2周年啦，看看这一年里，都发生了些什么。
 ---
 <link href="../../css/xiaoqiu/jquery.fullPage.css?_=3" rel="stylesheet">
-<link href="../../css/xiaoqiu/style-pad.css?_=3" rel="stylesheet">
+<link href="../../css/xiaoqiu/style-pad.css?_=4" rel="stylesheet">
 <style type="text/css">
 .phone-change .change-area{margin-top: -42px!important;}
 .section-nav{position: fixed;z-index: 100;top:50%;right: 5px;opacity: .5;}
@@ -512,7 +512,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     <div class="section section-17">
        <div class="frame">
             <div class="ele-share"></div>
-            <div class="ele-logo"></div>
+            <img src="http://helloiamkitty.github.io/images/xiaoqiu/img/logo@2x.png" class="ele-logo"></img>
             <div class="ele-info"></div>
             <div class="ele-btn"><a style="color: #ff4086;display: block;width: 100%;height: 100%;" target="_blank" href="http://weidian.com/?userid=160615473">点击查看我的微店</a></div>
        </div>
