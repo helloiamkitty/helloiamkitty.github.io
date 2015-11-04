@@ -51,16 +51,16 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     <div class="section section-3">
         <div class="frame">
             <h2 class="title">关于时间</h2>
-            <div class="data" style="right: 10px;top:75px;"><p>客服+发广告平均每天花费<span>1.5</span>小时</p>
+            <div class="data" style="right: 10px;top:75px;"><p>客服+发广告每天平均花费<span>2.5</span>小时</p>
                 <hr class="hr-line h-left h-down">
             </div>
-            <div class="data" style="top:130px;left:12px;"><p><span>10</span>小时</p>
-                <p>香港采购平均耗时</p>
+            <div class="data" style="top:130px;left:12px;"><p><span>12</span>小时</p>
+                <p>香港采购每周平均耗时</p>
                 <hr class="hr-line h-right h-down" style="width: 100px;float: left;margin-top: -2px;">
             </div>
             <div class="data last" style="top:395px;left: 50%;margin-left: -95px;">
                 <hr class="hr-line h-left h-up" style="float: right;">
-                <p>平均每周打包+发货耗时<span>12</span>小时</p></div>
+                <p>打包+发货每周平均耗时<span>12</span>小时</p></div>
             <div class="ele-clock">
                 <b class="h-line"></b>
                 <b class="m-line"></b>
@@ -176,7 +176,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                         <b class="hold-txt hold-txt-2">20%</b>
                         <div class="data" style="top:35px;left:154px;font-size: 18px;"><p>美妆</p><hr class="hr-line h-left h-down" style="width: 60px;float: left;"></div>
                         <b class="hold-txt hold-txt-3">20%</b>
-                        <div class="data" style="top:137px;left:113px;font-size: 18px;"><hr class="hr-line h-left h-up" style="width: 80px;float: left;"><p>保健品</p></div>
+                        <div class="data" style="top:137px;left:113px;font-size: 18px;"><p>保健品</p><hr class="hr-line h-left h-up" style="width: 80px;float: left;"></div>
                         <b class="hold-txt hold-txt-4">13%</b>
                         <div class="data" style="top:104px;left:-44px;font-size: 13px;"><p>零食</p><hr class="hr-line h-right h-down" style="width: 64px;float: left;"></div>
                         <b class="hold-txt hold-txt-5">10%</b>
@@ -253,7 +253,7 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     <div class="section section-9">
         <div class="frame">
             <h2 class="title">关于壕消费榜</h2>
-
+            <h5 class="sub-title">——仅统计2015年数据</h5>
             <div class="table-wrap">
                 <ul>
                     <li data-0="27657" data-id="n9-27657" data-len="132" class="">
