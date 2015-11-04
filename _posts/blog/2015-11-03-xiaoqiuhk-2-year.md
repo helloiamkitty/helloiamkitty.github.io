@@ -501,10 +501,10 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
                     <div class="ele-man"></div>
                     <div class="ele-gold"></div>
                     <div class="data" style="top:67px;left:50px;"><p><span>男</span></p><p>性别</p><hr class="hr-line h-left h-up" style="width: 80px;float: left;"></div>
-                    <div class="data" style="top:125px;left:209px;"><p><span>凯凯</span></p><p>昵称</p><hr class="hr-line h-right h-up" style="width: 60px;float: left;"></div>
+                    <div class="data" style="top:125px;left:209px;"><p><span>小凯</span></p><p>称呼</p><hr class="hr-line h-right h-up" style="width: 60px;float: left;"></div>
                     <div class="data" style="top:185px;left:22px;"><p><span>发广告</span></p><p>爱好</p><hr class="hr-line h-left h-up" style="width: 97px;float: left;margin-top: 10px!important;"></div>
-                    <div class="data" style="top:320px;left:50px;"><p><span>IT</span></p><p>主业</p><hr class="hr-line h-left h-up" style="width: 88px;float: left;margin-top: 10px!important;"></div>
-                    <div class="data" style="top:268px;left:205px;"><p style="text-align: right;"><span>随时！</span></p><p style="text-align: right;">约吗？</p><hr class="hr-line h-right h-up" style="width: 90px;float: left;margin-top: 10px!important;"></div>
+                    <div class="data" style="top:320px;left:50px;"><p><span>IT</span></p><p>副业</p><hr class="hr-line h-left h-up" style="width: 88px;float: left;margin-top: 10px!important;"></div>
+                    <div class="data" style="top:268px;left:205px;"><p style="text-align: right;"><span>随时！</span></p><p style="text-align: right;">约？</p><hr class="hr-line h-right h-up" style="width: 90px;float: left;margin-top: 10px!important;"></div>
                     <span class="up"></span>
             </div>
 
