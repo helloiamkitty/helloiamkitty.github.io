@@ -51,16 +51,16 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
     <div class="section section-3">
         <div class="frame">
             <h2 class="title">关于时间</h2>
-            <div class="data" style="right: 10px;top:75px;"><p>客服+发广告每天平均花费<span>2.5</span>小时</p>
+            <div class="data" style="right: 10px;top:75px;"><p>客服+发广告每天花费<span>2.5</span>小时</p>
                 <hr class="hr-line h-left h-down">
             </div>
             <div class="data" style="top:130px;left:12px;"><p><span>12</span>小时</p>
-                <p>香港采购每周平均耗时</p>
+                <p>香港采购每周耗时</p>
                 <hr class="hr-line h-right h-down" style="width: 100px;float: left;margin-top: -2px;">
             </div>
             <div class="data last" style="top:395px;left: 50%;margin-left: -95px;">
                 <hr class="hr-line h-left h-up" style="float: right;">
-                <p>打包+发货每周平均耗时<span>12</span>小时</p></div>
+                <p>打包+发货每周耗时<span>12</span>小时</p></div>
             <div class="ele-clock">
                 <b class="h-line"></b>
                 <b class="m-line"></b>
@@ -78,10 +78,10 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="ele-family"></div>
             <div class="ele-table"></div>
             <div class="pie-ios">
-                <div class="data" style="left: 134px;top:-31px;"><p>去年优秀员工<span>小邱</span></p>
+                <div class="data" style="left: 134px;top:-31px;"><p>今年优秀员工<span>小凯</span></p>
                     <hr style="float: left;" class="hr-line h-left h-down">
                 </div>
-                <p class="data-radio"><span>小邱投入</span><span class="radio">56%</span></p>
+                <p class="data-radio"><span>小凯投入</span><span class="radio">65%</span></p>
 
                 <div class="hold hold1">
                     <div class="pie"></div>
@@ -93,8 +93,8 @@ description: 小邱港货成立2周年啦，看看这一年里，都发生了些
             <div class="pie-and">
                 <div class="data" style="right: 16px;top:136px;">
                     <hr style="width: 120px;float: left;margin-bottom: 12px;" class="hr-line h-right h-up">
-                    <p>今年优秀员工<span>凯凯</span></p></div>
-                <p class="data-radio"><span>小邱投入</span><span class="radio">39%</span></p>
+                    <p>去年优秀员工<span>小邱</span></p></div>
+                <p class="data-radio"><span>小凯投入</span><span class="radio">39%</span></p>
 
                 <div class="hold">
                     <div class="pie"></div>
