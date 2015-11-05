@@ -5,7 +5,7 @@ category: read
 description: 小邱港货成立2周年啦，看看这一年里，都发生了些什么。
 ---
 <link href="../../css/xiaoqiu/jquery.fullPage.css?_=3" rel="stylesheet">
-<link href="../../css/xiaoqiu/style-pad.css?_=8" rel="stylesheet">
+<link href="../../css/xiaoqiu/style-pad.css?_=7" rel="stylesheet">
 <style type="text/css">
 .phone-change .change-area{margin-top: -42px!important;}
 .section-nav{position: fixed;z-index: 100;top:50%;right: 5px;opacity: .5;}
@@ -655,3 +655,4 @@ function scene8(index){
 
 
 </script>
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=35675740" charset="UTF-8"></script>
